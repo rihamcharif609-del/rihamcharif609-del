@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Riham 👋
 
-<!--
-**rihamcharif609-del/rihamcharif609-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm learning web development  
+🚀 Currently learning Laravel & React  
+🎨 I love drawing and design  
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML, CSS, JavaScript
+- PHP / Laravel
+- React (beginner)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- DeliveryX 🚧 (in progress)
+
+## 📫 Contact
+- GitHub: rihamcharif609-del
