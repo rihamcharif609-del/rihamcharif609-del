@@ -1,16 +1,16 @@
-# Hi, I'm Riham 👋
+# Hi, I'm Riham
 
-I'm learning web development  
-Currently learning Laravel & React  
+I'm learning web development    
 I love drawing and design  
 
-## 🛠️ Skills
+## Skills
 - HTML, CSS, JavaScript
 - PHP / Laravel
-- React (beginner)
+- React
+- python
 
-## 📌 Projects
+## Projects
 - DeliveryX (in progress)
 
-## 📫 Contact
+## Contact
 - GitHub: rihamcharif609-del
